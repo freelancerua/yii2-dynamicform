@@ -1,8 +1,8 @@
 {
-    "name": "wbraganca/yii2-dynamicform",
+    "name": "freelancerua/yii2-dynamicform",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
-        "wbraganca",
+        "freelancerua",
         "yii2",
         "extension",
         "widget",
@@ -19,9 +19,9 @@
     },
     "authors": [
         {
-            "name": "Wanderson Bragança",
-            "email": "wanderson.wbc@gmail.com",
-            "homepage": "http://wbraganca.com"
+            "name": "Dmytro S.",
+            "email": "freelancerua@protonmail.com",
+            "homepage": "http://freelancerua.pro"
         }
     ],
     "require": {
